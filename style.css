@@ -9,7 +9,7 @@
 header {
     height: 100vh;
     width: 100%;
-    background: url('/IMGS/bg2.jpg');
+    background: url('bg2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -101,7 +101,7 @@ footer{
     .header_outerdiv{
         flex-direction: column;
         align-items: center;
-        background: url('/IMGS/mainimg2.jpg');
+        background: url('mainimg2.jpg');
     }
     #header_innerdiv1 div{
         height: 50px;
